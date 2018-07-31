@@ -1,5 +1,8 @@
 ## Treehouse
 
-This repo is for all my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-Intentionally creating a conflict.
+Also check out my Treehouse profile.
+
+Blah blah blah
+
